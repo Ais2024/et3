@@ -1,0 +1,1 @@
+In summary, this code copies images from one directory to another, then renames the images and generates a CSV report containing details about the copied images, including size, last modification date, and the type of modification applied to each image.# et3
